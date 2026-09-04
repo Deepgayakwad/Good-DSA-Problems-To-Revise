@@ -39,4 +39,7 @@ Q - 38 Lexicographically smallest palindromic permutation greater than target(le
 Q - 39 Cinema seat allocation(leetcode 1386)
 Q - 40 check strings can be made equal with operation II(leetcode 2840)
 Q - 41 minimum moves to clean the classroom (leetcode 3568)
+Q - 42 Longest Arithmetic subsequence(leetcode 1027)
+Q - 43 flip string to monotone increasing(leetcode 1027)
+Q - 44 Minimum deletions to make character frequencies equal(leetcode 1647)
 
