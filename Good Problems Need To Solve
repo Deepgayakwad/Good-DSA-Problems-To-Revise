@@ -42,4 +42,7 @@ Q - 41 minimum moves to clean the classroom (leetcode 3568)
 Q - 42 Longest Arithmetic subsequence(leetcode 1027)
 Q - 43 flip string to monotone increasing(leetcode 1027)
 Q - 44 Minimum deletions to make character frequencies equal(leetcode 1647)
+Q = 45 Longest arithmetic subsequence(leetcode 1027)
+Q - 46 number of longest increasing subsequence(leetcode 673)
+Q - 47 longest arithmetic subsequence of given difference(leetcode 1218)
 
